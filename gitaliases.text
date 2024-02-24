@@ -33,4 +33,4 @@ git config --global alias.rb rebase
 git config --global alias.rs reset
 git config --global alias.st status
 git config --global alias.t tag 
-
+git config --global alias.ci commit 
